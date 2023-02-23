@@ -22,9 +22,7 @@ button {
     border: 5px solid #000;
     border-radius: 20px;
 
-    font-weight: 700;
-    font-size: 40px;
-    color: white;
+    
 }
 
 .button:hover {
@@ -33,4 +31,11 @@ button {
 
 .button:active {
     transform:scale(0.98)
+}
+
+a {
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
 }
